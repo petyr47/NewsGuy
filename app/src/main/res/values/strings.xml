@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News Guy</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="pref_last_sync">last-sync</string>
+
+
+    <string name="abmob_list_banner_id">ca-app-pub-6494160563895466/8102572339</string>
+    <string name="abmob_web_banner_id">ca-app-pub-6494160563895466/1122231011</string>
+    <string name="abmob_about_banner_id">ca-app-pub-6494160563895466/2435312689</string>
+    <string name="abmob_list_inter_id">ca-app-pub-6494160563895466/5137373934</string>
+    <string name="abmob_web_inter_id">ca-app-pub-6494160563895466/1006557234</string>
+    <string name="abmob_about_inter_id">ca-app-pub-6494160563895466/8310332189</string>
+    <string name="abmob_app_id">ca-app-pub-6494160563895466~7879211050</string>
+</resources>
